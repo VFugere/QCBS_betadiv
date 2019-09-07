@@ -47,13 +47,6 @@ Alternative: getting the dataset from the Open Science Framework (OSF) website
 # kib <- read.csv('/Users/vincentfugere/Desktop/kibale_inverts.csv', header=T)
 ```
 
-If both fail, you can always try Dropbrox! (link might become obsolete eventually)
-
-
-```r
-# https://www.dropbox.com/s/qj8vswqp322add2/kibale_inverts.csv?dl=0
-```
-
 fixing some issues
 
 
